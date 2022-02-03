@@ -135,9 +135,11 @@ main {
   bottom: 1rem;
   left: 50%;
   transform: translate(-50%);
+  color: var(--desaturated-blue);
 }
 .attribution a {
-  color: hsl(228, 45%, 44%);
+  color: var(--desaturated-blue);
+  font-weight: 900;
 }
 
 @media screen and (max-width: 23.43rem) {
