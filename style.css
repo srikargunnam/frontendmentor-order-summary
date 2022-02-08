@@ -95,10 +95,12 @@ main {
 .planType {
   color: var(--dark-blue);
   font-weight: 900;
+  font-size: 1.2rem;
 }
 
 .price {
   color: var(--desaturated-blue);
+  font-size: 1.2rem;
 }
 
 .buttons {
